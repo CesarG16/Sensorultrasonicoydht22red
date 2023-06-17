@@ -254,7 +254,7 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen y en la página creada por node - red.
 
 
-![](https://github.com/CesarG16/Sensorultrasonicoydht22red/blob/main/IMG2.png?raw=true)
+![](https://github.com/CesarG16/Sensorultrasonicoydht22red/blob/main/IMG1.png?raw=true)
 ![](https://github.com/CesarG16/Sensorultrasonicoydht22red/blob/main/IMG13.png?raw=true)
 
 
