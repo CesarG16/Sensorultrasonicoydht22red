@@ -223,7 +223,7 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
 
 ![](https://github.com/CesarG16/SENSORSONICORED/blob/main/IMAG1.png?raw=true)
 
-6. Los elementos puestos son : mqtt in, json, function, function, gauge, gauge y chart.
+6. Los elementos puestos son : mqtt in, json, function, function, function, gauge, gauge, gauge y chart.
 7. Después abrir Dashboard en la esquina superior de la derecha como se ve en la siguiente imagen:
 
 ![](https://github.com/CesarG16/DHT22RED/blob/main/EJE4.png?raw=true)
@@ -233,11 +233,15 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
 10. De alli tanto en tab como en los grupos se les da en los botones de editar de cada uno y en la seccion de name se le asigna un nombre a cada uno.
 11. de alli se da click a cada uno de los elementos unidos anteriormente y se editan empezando por el primero, hasta el ultimo como se ven en las siguientes imágenes:
 
-![](https://github.com/CesarG16/SENSORSONICORED/blob/main/IMAG2.png?raw=true)
-![](https://github.com/CesarG16/SENSORSONICORED/blob/main/IMAG3.png?raw=true)
-![](https://github.com/CesarG16/SENSORSONICORED/blob/main/IMAG4.png?raw=true)
-![](https://github.com/CesarG16/SENSORSONICORED/blob/main/IMAG5.png?raw=true)
-![](https://github.com/CesarG16/SENSORSONICORED/blob/main/IMAG6.png?raw=true)
+![](https://github.com/CesarG16/Sensorultrasonicoydht22red/blob/main/IMG4.png?raw=true)
+![](https://github.com/CesarG16/Sensorultrasonicoydht22red/blob/main/IMG5.png?raw=true)
+![](https://github.com/CesarG16/Sensorultrasonicoydht22red/blob/main/IMG6.png?raw=true)
+![](https://github.com/CesarG16/Sensorultrasonicoydht22red/blob/main/IMG7.png?raw=true)
+![](https://github.com/CesarG16/Sensorultrasonicoydht22red/blob/main/IMG8.png?raw=true)
+![](https://github.com/CesarG16/Sensorultrasonicoydht22red/blob/main/IMG9.png?raw=true)
+![](https://github.com/CesarG16/Sensorultrasonicoydht22red/blob/main/IMG10.png?raw=true)
+![](https://github.com/CesarG16/Sensorultrasonicoydht22red/blob/main/IMG11.png?raw=true)
+![](https://github.com/CesarG16/Sensorultrasonicoydht22red/blob/main/IMG12.png?raw=true)
 
 
 12. Tras esto se da en el boton rojo de arriba a la derecha que dice Deploy y cuando esté listo se le da en el siguiente boton que esta abajo de Deploy para que abra una nueva página y se visualice el resultado:
@@ -249,14 +253,16 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen y en la página creada por node - red.
 
-![](https://github.com/CesarG16/SENSORSONICORED/blob/main/IMAG7.png?raw=true)
-![](https://github.com/CesarG16/SENSORSONICORED/blob/main/IMAG8.png?raw=true)
+
+![](https://github.com/CesarG16/Sensorultrasonicoydht22red/blob/main/IMG2.png?raw=true)
+![](https://github.com/CesarG16/Sensorultrasonicoydht22red/blob/main/IMG13.png?raw=true)
+
 
 
 
 ## Evidencias
 
-[Página](https://wokwi.com/projects/367822258306050049)
+[Página](https://wokwi.com/projects/367824656696140801)
 
 
 # Créditos
